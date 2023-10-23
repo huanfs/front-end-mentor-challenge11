@@ -1,0 +1,1 @@
+definir o layout mobile. proavelmente terei que colocar todo layout ja criado dentro de uma media query, ou então colocar os estilos comuns dentro do media query e separar os de tela grande dentro de uma media query e os estilos de tela menor em outro media query;
